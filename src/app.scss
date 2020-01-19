@@ -1,0 +1,14 @@
+$color: #00cd8b;
+$color2: #cd0039;
+
+div.box {
+  div {
+    p.line1 {
+      color: $color;
+    }
+
+    p.line2 {
+      color: $color2;
+    }
+  }
+}
